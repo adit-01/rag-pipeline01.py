@@ -4,11 +4,11 @@ A production-ready Retrieval-Augmented Generation (RAG) pipeline for querying do
 
 ## Features
 
-- 📄 **Document Ingestion**: Process text files with optimized chunking
-- 🔍 **Vector Search**: ChromaDB/FAISS for fast similarity search  
-- 🤖 **Local LLM**: Uses Ollama (free, no API costs)
-- ⚡ **Optimized**: Fast embeddings with sentence-transformers
-- 🎨 **Web UI**: Simple Gradio interface
+-  **Document Ingestion**: Process text files with optimized chunking
+-  **Vector Search**: ChromaDB/FAISS for fast similarity search  
+-  **Local LLM**: Uses Ollama (free, no API costs)
+-  **Optimized**: Fast embeddings with sentence-transformers
+-  **Web UI**: Simple Gradio interface
 
 ## Installation
 ```bash
